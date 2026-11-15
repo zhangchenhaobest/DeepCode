@@ -1,3 +1,29 @@
+# DeepCode
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+DeepCode：开放智能体编码框架，涵盖 Agent Harness、循环工程与多智能体编排。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <table style="border: none; margin: 0 auto; padding: 0; border-collapse: collapse;">
